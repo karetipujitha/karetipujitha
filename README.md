@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kareti Pujitha 👋
 
-<!--
-**karetipujitha/karetipujitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with experience in Java, Spring Boot, Python, FastAPI, MongoDB, MySQL, AWS, and REST APIs.
 
-Here are some ideas to get you started:
+## Experience
+- Software Engineer Apprentice @ Bosch Global Software Technologies
+- Built microservices using FastAPI
+- Worked with AWS Lambda, MongoDB, InfluxDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Java | Spring Boot | Python | FastAPI | JavaScript | SQL | MongoDB | AWS
+
+## Featured Projects
+- Employee Attendance Management System
+- Saffron Stays Hotel Booking System
+- Opinion Mining for Hotel Rating
+
+## Connect
+LinkedIn: <[link](https://www.linkedin.com/in/karetipujitha/)>
+Portfolio: <[link](https://lake-system-85321569.figma.site/)>
+Email: karetipujitha66@gmail.com
